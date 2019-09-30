@@ -1,0 +1,32 @@
+count3 = 0
+when count3 = = 2
+number = number + 3
+
+count4 = 0
+when count4 = = 3
+number = number + 4
+
+count5 = 0
+when count5 == 9 && flag==0 || count5==3 && flag ==1
+number  = number +5
+
+count6 = 0
+when count6 == 19 && flag==0 || count6==9 && flag ==1
+number  = number +6
+
+count7 = 0
+when count7 == 41 && flag==0 || count7==19 && flag ==1
+number  = number +7
+
+count8 = 0
+when count8 == 83 && flag==0 || count8==41 && flag ==1
+number  = number +8
+
+count9 = 0
+when count9 == 169 && flag==0 || count9==83 && flag ==1
+number  = number +9
+
+count9 = 0
+when count9 == 169 && flag==0 || count9==83 && flag ==1
+number  = number +9
+
