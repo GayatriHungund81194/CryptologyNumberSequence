@@ -25,8 +25,3 @@ number  = number +8
 count9 = 0
 when count9 == 169 && flag==0 || count9==83 && flag ==1
 number  = number +9
-
-count9 = 0
-when count9 == 169 && flag==0 || count9==83 && flag ==1
-number  = number +9
-
